@@ -1,3 +1,6 @@
-<?php
-    echo "v2";
+<?php 
+  $shell = "hostname";
+  system($shell, $status);
+  echo "v2";
 ?>
+
