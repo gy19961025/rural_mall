@@ -1,5 +1,5 @@
 <?php
   $shell = "hostname";
   system($shell, $status);
-  print "<p style='color:yellow;'>v2</p>";
+  print "<p style='color:orange;'>v3</p>";
 ?>
