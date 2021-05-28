@@ -1,5 +1,4 @@
 <?php
-  $shell = "hostname";
+  $shell = "echo hehe";
   system($shell, $status);
-  print "<p style='color:red;'>v4</p>";
 ?>
