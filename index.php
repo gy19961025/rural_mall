@@ -1,4 +1,4 @@
 <?php
-  $shell = "echo hehe";
+  $shell = "echo xixi";
   system($shell, $status);
 ?>
